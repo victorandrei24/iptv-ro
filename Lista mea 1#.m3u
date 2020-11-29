@@ -1,212 +1,266 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="1 -ROMANIA" ,1 Music Channel
+#EXTINF:-1 group-title="#ROMANIA#" ,1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Agro TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Alfa Omega TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Alfa Omega TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Antena Comedy
+#EXTINF:-1 group-title="#ROMANIA#" ,Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Antena Cook and PLay
+#EXTINF:-1 group-title="#ROMANIA#" ,Antena Cook and PLay
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Antena Monden
+#EXTINF:-1 group-title="#ROMANIA#" ,Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,AXN
+#EXTINF:-1 group-title="#ROMANIA#" ,AXN
 http://edge76.rcs-rds.ro/digiedge2/axnehq.stream/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,AXN Black
+#EXTINF:-1 group-title="#ROMANIA#" ,AXN Black
 http://edge76.rcs-rds.ro/digiedge2/axnblackehq.stream/index.m3u8?is=45&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,AXN HD
-http://edge76.rcs-rds.ro/digiedge2/axnehd.stream/index.m3u8?is=44&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,AXN Spin
+#EXTINF:-1 group-title="#ROMANIA#" ,AXN Spin
 http://edge76.rcs-rds.ro/digiedge2/axnspinehq.stream/index.m3u8?is=57&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,AXN White
+#EXTINF:-1 group-title="#ROMANIA#" ,AXN White
 http://edge76.rcs-rds.ro/digiedge2/axnwhiteehq.stream/chunklist_w608025685.m3u8?is=46&src=digi-online.ro&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,BBC Earth (rds)
+#EXTINF:-1 group-title="#ROMANIA#" ,BBC Earth
 http://edge76.rcs-rds.ro/digiedge2/bbcearthehq.stream/index.m3u8?is=67&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,BO CLASIC
+#EXTINF:-1 group-title="#ROMANIA#" ,BO CLASIC
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,BO TV
+#EXTINF:-1 group-title="#ROMANIA#" ,BO TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Bollywood Classic
+#EXTINF:-1 group-title="#ROMANIA#" ,Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Bollywood TV Film
+#EXTINF:-1 group-title="#ROMANIA#" ,Bollywood TV Film
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="1 -ROMANIA" ,Busuioc TV
+#EXTINF:0 group-title="#ROMANIA#" ,Busuioc TV
 https://busuioctv.iforward.eu/hls/busuioc.m3u8
-#EXTINF:0 group-title="1 -ROMANIA" ,Campus TV BUZAU
+#EXTINF:0 group-title="#ROMANIA#" ,Campus TV BUZAU
 mmsh://82.208.182.135:8080/
-#EXTINF:-1 group-title="1 -ROMANIA" ,Canal Regional
+#EXTINF:-1 group-title="#ROMANIA#" ,Canal Regional
 http://canalregional.md/tv/live/canalregional.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Canal33
+#EXTINF:-1 group-title="#ROMANIA#" ,Canal33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:-1 group-title="1 -ROMANIA" ,Credo TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Credo TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Digi Animal World HD (rds)
+#EXTINF:-1 group-title="#ROMANIA#" ,Digi Animal World HD
 http://edge76.rcs-rds.ro/digiedge2/digianimalworldehd.stream/index.m3u8?is=16&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Digi Life HD
+#EXTINF:-1 group-title="#ROMANIA#" ,Digi Life HD
 http://edge76.rcs-rds.ro/digiedge2/digilifeehd.stream/index.m3u8?is=6&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Digi World HD
+#EXTINF:-1 group-title="#ROMANIA#" ,Digi World HD
 http://edge76.rcs-rds.ro/digiedge2/digiworldehd.stream/index.m3u8?is=5&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Disney Channel
+#EXTINF:-1 group-title="#ROMANIA#" ,Disney Channel
 http://edge76.rcs-rds.ro/digiedge2/disneychannelehq.stream/index.m3u8?is=17&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Disney Junior
+#EXTINF:-1 group-title="#ROMANIA#" ,Disney Junior
 http://edge76.rcs-rds.ro/digiedge2/disneyjuniorehq.stream/index.m3u8?is=18&src=app&t=00000000000000000000000000000000
-#EXTINF:0 group-title="1 -ROMANIA" ,GTV
+#EXTINF:0 group-title="#ROMANIA#" ,GTV
 rtmp://gtv.arya.ro:1935/live/gtv1
-#EXTINF:-1 group-title="1 -ROMANIA" ,History HD (rds)
+#EXTINF:-1 group-title="#ROMANIA#" ,History HD
 http://edge76.rcs-rds.ro/digiedge2/historychannelehd.stream/index.m3u8?is=20&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Inedit
+#EXTINF:-1 group-title="#ROMANIA#" ,Inedit
 http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Informatia TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Informatia TV
 http://s1.streamnet.ro:8014/stream.flv
-#EXTINF:-1 group-title="1 -ROMANIA" ,Minimax
+#EXTINF:-1 group-title="#ROMANIA#" ,Minimax
 http://edge76.rcs-rds.ro/digiedge2/minimaxehq.stream/index.m3u8?is=37&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,MOOZ Dance
+#EXTINF:-1 group-title="#ROMANIA#" ,MOOZ Dance
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,MOOZ HD
+#EXTINF:-1 group-title="#ROMANIA#" ,MOOZ HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,MOOZ Hits
+#EXTINF:-1 group-title="#ROMANIA#" ,MOOZ Hits
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,MOOZ RO
+#EXTINF:-1 group-title="#ROMANIA#" ,MOOZ RO
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0 group-title="EN" ,MUSIC CHANNEL
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0 group-title="1 -ROMANIA" ,MUSIC CHANNEL (rds)
+#EXTINF:0 group-title="#ROMANIA#" ,MUSIC CHANNEL
 http://edge76.rcs-rds.ro/digiedge2/musicchannelehq.stream/index.m3u8?is=25&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Nat Geo Wild HD
+#EXTINF:-1 group-title="#ROMANIA#" ,Nat Geo Wild HD
 http://edge76.rcs-rds.ro/digiedge2/nationalgeographicwildehd.stream/index.m3u8?is=33&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,National Geographic HD
+#EXTINF:-1 group-title="#ROMANIA#" ,National Geographic HD
 http://edge76.rcs-rds.ro/digiedge2/nationalgeographicehd.stream/index.m3u8?is=19&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,Nickelodeon
+#EXTINF:-1 group-title="#ROMANIA#" ,Nickelodeon
 http://edge76.rcs-rds.ro/digiedge2/nickelodeonehq.stream/index.m3u8?is=28&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="EN" ,NO- MTV Norway
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Noroc TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Noroc TV
 http://live.noroc.tv/hls/noroctv_chisinau.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Pro Cinema
+#EXTINF:-1 group-title="#ROMANIA#" ,Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema.m3u8?1
-#EXTINF:-1 group-title="1 -ROMANIA" ,Pro Gold
+#EXTINF:-1 group-title="#ROMANIA#" ,Pro Gold
 https://vid.hls.protv.ro/progoldn/progold.m3u8?1
-#EXTINF:-1 group-title="1 -ROMANIA" ,Pro TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Pro TV
 https://vid.hls.protv.ro/protvhdn/protvhd.m3u8?1
-#EXTINF:-1 group-title="1 -ROMANIA" ,Pro TV Chisinau
+#EXTINF:-1 group-title="#ROMANIA#" ,Pro TV Chisinau
 http://hls.protv.md/hls/protv.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Pro X
+#EXTINF:-1 group-title="#ROMANIA#" ,Pro X
 https://vid.hls.protv.ro/proxhdn/proxhd.m3u8?1
-#EXTINF:-1 group-title="1 -ROMANIA" ,Publika TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Publika TV
 http://livebeta.publika.md/LIVE/P/1000.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Realitatea TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Realitatea TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Speranta TV
+#EXTINF:-1 group-title="#ROMANIA#" ,Speranta TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Stars
+#EXTINF:-1 group-title="#ROMANIA#" ,Stars
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:-1 group-title="1 -ROMANIA" ,Stars Direct
+#EXTINF:-1 group-title="#ROMANIA#" ,Stars Direct
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:-1 group-title="EN" ,Travel Channel HD
-http://edge76.rcs-rds.ro/digiedge2/travelchannelehd.stream/index.m3u8?is=21&src=app&t=00000000000000000000000000000000
-#EXTINF:0 group-title="1 -ROMANIA" ,Trinitas TV
+#EXTINF:0 group-title="#ROMANIA#" ,Trinitas TV
 https://youtu.be/UTmo2VryU5w
-#EXTINF:-1 group-title="1 -ROMANIA" ,Tv 1000
+#EXTINF:-1 group-title="#ROMANIA#" ,Tv 1000
 http://edge76.rcs-rds.ro/digiedge2/tv1000ehq.stream/index.m3u8?is=43&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,TV City
+#EXTINF:-1 group-title="#ROMANIA#" ,TV City
 http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="1 -ROMANIA" ,Tv Paprika
+#EXTINF:-1 group-title="#ROMANIA#" ,Tv Paprika
 http://edge76.rcs-rds.ro/digiedge2/tvpaprikaehq.stream/index.m3u8?is=39&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,TVR Tirgu Mures
+#EXTINF:-1 group-title="#ROMANIA#" ,TVR Tirgu Mures
 https://mn-nl.mncdn.com/tvr_tirgumures_live/tvr_tirgumures_live2/playlist.m3u8
-#EXTINF:0 group-title="1 -ROMANIA" ,UTV (rds)
+#EXTINF:0 group-title="#ROMANIA#" ,UTV
 http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
-#EXTINF:0 group-title="1 -ROMANIA" ,Valea Prahovei
+#EXTINF:0 group-title="#ROMANIA#" ,Valea Prahovei
 http://89.38.8.130:39437
-#EXTINF:-1 group-title="1 -ROMANIA" ,VIASAT EXPLORER
+#EXTINF:-1 group-title="#ROMANIA#" ,VIASAT EXPLORER
 http://edge76.rcs-rds.ro/digiedge2/viasatexplorerehq.stream/index.m3u8?is=40&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="1 -ROMANIA" ,VIASAT NATURE
+#EXTINF:-1 group-title="#ROMANIA#" ,VIASAT NATURE
 http://edge76.rcs-rds.ro/digiedge2/viasatnatureehq.stream/index.m3u8?is=42&src=app&t=00000000000000000000000000000000
-#EXTINF:-1 group-title="DE" ,BR HD
-http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8
-#EXTINF:-1 group-title="DE" ,BW Family
-https://cdn.icu.de/rtplive/bwf.stream/playlist.m3u8
-#EXTINF:-1 group-title="DE" ,H1 TV Fernsehen
-http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
-#EXTINF:-1 group-title="DE" ,Hr HD
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8
-#EXTINF:0 group-title="DE" ,Kronehit TV (AU)
+#EXTINF:0 group-title="AUSTRIA" ,dorf tv
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 group-title="AUSTRIA" ,KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="DE" ,MTV Norway
+#EXTINF:0 group-title="AUSTRIA" ,Ländle Tv
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,oe24 TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,R9 TV
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,SchauTV
+https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101
+#EXTINF:0 group-title="AUSTRIA" ,Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,Tirol TV
+https://streaming5.huberwebmedia.at/hls-live/live_tiroltv/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 group-title="AUSTRIA" ,W24 TV
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,3Sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,a.tv Augsburg
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,allgäu.tv Kempen
+https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/chunklist_w1838873546_b446000.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,ARTE
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Baden TV Karlsruhe
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 group-title="DEUCHLAND" ,BR HD
+http://brlive-lh.akamaihd.net/i/bfssued_worldwide@119891/master.m3u8
+#EXTINF:-1 group-title="DEUCHLAND" ,BW Family
+https://cdn.icu.de/rtplive/bwf.stream/playlist.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,DELUXEMUSIC
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/playlist.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Deutsche Welle
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Deutsche Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8
+#EXTINF:-1 group-title="DEUCHLAND" ,H1 TV Fernsehen
+http://livestream.htp.tv/hls-live/livepkgr/_definst_/H1/H1_HQ.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,HR
+http://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 group-title="DEUCHLAND" ,Hr HD
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,MDR SACHSEN-ANHALT
+http://mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEUCHLAND" ,MTV Norway
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="DE" ,NDR HD
+#EXTINF:0 group-title="DEUCHLAND" ,münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="DEUCHLAND" ,NDR HD
 http://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8
-#EXTINF:0 group-title="DE" ,Radio Unserding (DE)
+#EXTINF:0 group-title="DEUCHLAND" ,NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
+#EXTINF:0 group-title="DEUCHLAND" ,noa4 Hamburg HD
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Radio 21 Hannover
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Radio Bremen TV HD
+https://rbfs-lh.akamaihd.net/i/rb_fs@438960/index_3584_av-p.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Radio Unserding (DE)
 http://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/index_1662_av-b.m3u8
-#EXTINF:0 group-title="EN" ,1HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:0 group-title="EN" ,ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 group-title="EN" ,Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:0 group-title="EN" ,Arirang KR
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:0 group-title="EN" ,BBC 1 SCOTLAND
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-#EXTINF:0 group-title="EN" ,BBC NEWS
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-#EXTINF:0 group-title="EN" ,Box Hits
-http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-#EXTINF:0 group-title="EN" ,BYUtv
-http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-#EXTINF:0 group-title="EN" ,CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0 group-title="EN" ,CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:0 group-title="EN" ,CMC TV
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:0 group-title="EN" ,CMC USA
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
-#EXTINF:0 group-title="EN" ,D5 MUSIC
+#EXTINF:0 group-title="DEUCHLAND" ,Radio Weser TV Bremen
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,rbb Berlin
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,ServusTV HD
+https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,Sky Sport News HD
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,SWR BW
+https://swrbwhls-i.akamaihd.net/hls/live/667638-b/swrbwd/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,TAGESSCHAU 24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,WDR Koeln
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,ZDFinfo
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:0 group-title="DEUCHLAND" ,ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http:%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:0 group-title="MUSIC" ,D5 MUSIC
 https://live.creacast.com/d5music/smil:d5music.smil/chunklist_w1757360810_b1928000.m3u8
-#EXTINF:0 group-title="EN" ,DUBAI HD
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0 group-title="EN" ,DUBAI ONE HD
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:0 group-title="EN" ,DW
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:0 group-title="EN" ,FRESH HD
-http://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
-#EXTINF:0 group-title="EN" ,ITV 1
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:0 group-title="EN" ,Kerrang!
-http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-#EXTINF:0 group-title="EN" ,Kiss UK
-http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
-#EXTINF:0 group-title="EN" ,Magic UK
-http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
-#EXTINF:-1 group-title="EN" ,MTV Biggest Pop
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:-1 group-title="EN" ,MTV Block Party
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 group-title="EN" ,MTV MUSIC 24
-http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="EN" ,MTV Spankin' New
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF:-1 group-title="EN" ,MTV WMA
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-#EXTINF:-1 group-title="EN" ,MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 group-title="EN" ,Natura
-http://media1.tvnatura.cz/live_out/2/live.m3u8
-#EXTINF:0 group-title="EN" ,RT
-http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
-#EXTINF:0 group-title="EN" ,RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF:0 group-title="EN" ,SONNENKLAR TV
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:0 group-title="EN" ,SUPERYACHT TV
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-#EXTINF:0 group-title="EN" ,Telesur English
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:0 group-title="EN" ,The Box
-http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="MUSIC" ,D5 TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,DBM
+https://edge6.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Energy TV (CH)
+https://edge10.vedge.infomaniak.com/livecast/ik:energytv/chunklist_w229962190_b3001080.m3u8?spark=2ef26dd4-6c62-4d52-9dcb-b177d141f032&token=
+#EXTINF:-1 group-title="MUSIC" ,Generations TV
+https://edge10.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8?spark=28dc12a7-48b5-4d36-9b5b-c2deb9b70bcb&token=
+#EXTINF:-1 group-title="MUSIC" ,Kerrang
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 group-title="MUSIC" ,Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 group-title="MUSIC" ,LFM
+https://edge7.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w1230106190_b3000000.m3u8?spark=625bf5d7-210c-49c0-96af-3663c8de1d1d&token=
+#EXTINF:-1 group-title="MUSIC" ,Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 group-title="MUSIC" ,MTV Norway
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0 group-title="MUSIC" ,MUSIC CHANNEL
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Obosso TV
+https://edge4.vedge.infomaniak.com/livecast/ik:obossotv_6/manifest.m3u8?spark=f033d292-cb89-4c69-bcad-4cfb4c160d9d&token=
+#EXTINF:-1 group-title="MUSIC" ,Ocko TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Radio Contact
+https://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Radio Italia TV
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Radio m20 Lazio
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Radio Taormina Sicilia
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,RTL 102.5 BEST
+https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Top Music
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:-1 group-title="MUSIC" ,TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,TZiK
+https://54627d4fc5996.streamlock.net/tzik/tzik/chunklist.m3u8
+#EXTINF:-1 group-title="MUSIC" ,Urban Music
+https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
+#EXTINF:-1 group-title="MUSIC" ,XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
 #EXTINF:0 group-title="Radio" ,Antena Satelor
 http://89.238.227.6:8042
 #EXTINF:0 group-title="Radio" ,Antena Satelor
@@ -227,6 +281,8 @@ https://live.kissfm.ro/kissfm.aacp
 http://live.magicfm.ro:9128/magicfm.aacp
 #EXTINF:0 group-title="Radio" ,PRO FM
 http://edge126.rdsnet.ro:84/profm/profm.mp3
+#EXTINF:0 group-title="Radio" ,Radio B2 Berlin
+http://mp3ad.radiob2.c.nmdn.net/fs_radiob2regional/livestream.mp3
 #EXTINF:0 group-title="Radio" ,Radio Folclor
 http://167.114.207.226:5000
 #EXTINF:0 group-title="Radio" ,Radio Iasi
@@ -235,8 +291,156 @@ http://89.238.227.6:8200/
 http://radiopetrecaretzu.zapto.org:8383
 #EXTINF:0 group-title="Radio" ,Radio Popular RO
 http://live.radiopopular.ro:8888
+#EXTINF:0 group-title="Radio" ,Radio RS2 Berlin
+http://stream.rs2.de/rs2/mp3-128/radioplayerde/;stream.nsv
 #EXTINF:0 group-title="Radio" ,Radio Traditional Populara
 http://populara.radiotraditional.ro:7600/
+#EXTINF:0 group-title="USA" ,1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="USA" ,30A Music
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="USA" ,80s Party
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/81854f83-4b79-442c-b943-8c87300fe190/5.m3u8
+#EXTINF:0 group-title="USA" ,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:0 group-title="USA" ,Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:0 group-title="USA" ,Arirang KR
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="USA" ,BaebleMusic
+https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
+#EXTINF:-1 group-title="USA" ,Baraza Music TV
+https://eco.streams.ovh/BarazaClassic/BarazaClassic/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,Beast Mode
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/dedcdc71-f8ba-4371-9ed9-e5fb2a691485/5.m3u8
+#EXTINF:-1 group-title="USA" ,Bedroom Beats
+https://eb8029576dd74625b1d49e34afc1febb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_plex/932c2e9d-348a-4633-8a43-5e590398fde7/5.m3u8
+#EXTINF:-1 group-title="USA" ,Black Artist
+https://nrpus.bozztv.com/36bay2/gusa-blackartist/index.m3u8
+#EXTINF:-1 group-title="USA" ,Black Music Artist TV
+https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,Bluegrass 4U
+https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
+#EXTINF:0 group-title="USA" ,Box Hits
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:0 group-title="USA" ,BYUtv
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:0 group-title="USA" ,CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 group-title="USA" ,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="USA" ,Cinemax (East)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
+#EXTINF:-1 group-title="USA" ,Cinemax (West)
+https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
+#EXTINF:-1 group-title="USA" ,CMC 2
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:0 group-title="USA" ,CMC TV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="USA" ,Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:0 group-title="USA" ,DW
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="USA" ,Electro Anthems
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/3f15c325-941b-4c87-b429-d93bd3e70738/5.m3u8
+#EXTINF:-1 group-title="USA" ,Epix (East)
+https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
+#EXTINF:-1 group-title="USA" ,Epix 2 (East)
+https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
+#EXTINF:-1 group-title="USA" ,Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="USA" ,Filmrise Family
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,FilmRise Forensic Files 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 group-title="USA" ,Filmrise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,FilmRise Mysteries 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:0 group-title="USA" ,FRESH HD
+http://strm.yandex.ru/kal/fresh/fresh0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:-1 group-title="USA" ,Friday Feels
+https://7d6f1eaab26244879085a9c647097af7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_plex/8d5f1f7f-8546-4892-9eca-988e973d6cc2/5.m3u8
+#EXTINF:-1 group-title="USA" ,HBO (East)
+https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
+#EXTINF:-1 group-title="USA" ,HBO (West)
+https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
+#EXTINF:-1 group-title="USA" ,Hip Hop Bangers
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/ed8212a6-b4f2-46e7-8386-eab377eb0607/3.m3u8
+#EXTINF:-1 group-title="USA" ,Hot Rock TV
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+#EXTINF:-1 group-title="USA" ,Hottest of the Hot
+https://942aece530c1422894fddbd5867984d1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_plex/224447a1-0ef3-43cf-bb86-cb636669ba45/5.m3u8
+#EXTINF:0 group-title="USA" ,ITV 1
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:0 group-title="USA" ,Kerrang!
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kerrang-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:0 group-title="USA" ,Kiss UK
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 group-title="USA" ,Latido Music
+https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
+#EXTINF:-1 group-title="USA" ,Like Yesterday
+https://7b65d9c562ad41b4b6efeaf1f598093d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_plex/11b32cf3-e807-4244-b949-6a22933cef3a/2.m3u8
+#EXTINF:-1 group-title="USA" ,Live Music Replay
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=855&deviceId=5873fc21cad696fb37aa9054&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:0 group-title="USA" ,Magic UK
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,magic-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 group-title="USA" ,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 group-title="USA" ,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 group-title="USA" ,MTV MUSIC 24
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="USA" ,MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 group-title="USA" ,MTV WMA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 group-title="USA" ,MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 group-title="USA" ,Natura
+http://media1.tvnatura.cz/live_out/2/live.m3u8
+#EXTINF:-1 group-title="USA" ,Neural Focused
+https://1d75125ffd43490eb970a2f3f575e96c.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_plex/35cba159-09d0-4e37-bf3c-99cd99ec425b/5.m3u8
+#EXTINF:-1 group-title="USA" ,NO- MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="USA" ,Radiou TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:0 group-title="USA" ,RT
+http://rt-news.secure.footprint.net/1103_2500Kb.m3u8
+#EXTINF:0 group-title="USA" ,RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1 group-title="USA" ,Showtime (East)
+https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
+#EXTINF:-1 group-title="USA" ,Showtime (West)
+https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
+#EXTINF:0 group-title="USA" ,SONNENKLAR TV
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 group-title="USA" ,STARZ (East)
+https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
+#EXTINF:-1 group-title="USA" ,STARZ (West)
+https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
+#EXTINF:-1 group-title="USA" ,Street Music 4U
+https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
+#EXTINF:0 group-title="USA" ,SUPERYACHT TV
+http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
+#EXTINF:0 group-title="USA" ,Telesur English
+https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="USA" ,That's Hot
+https://fd80a2d7c3fb4580b4cb8ef661a96d49.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_plex/6fd86144-5938-4c3a-bda9-14ae30d6e38b/5.m3u8
+#EXTINF:0 group-title="USA" ,The Box
+http://csm-e-cebxeurxaws101j8-61e3i3s9t0pj.tls1.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 group-title="USA" ,Travel Channel HD
+http://edge76.rcs-rds.ro/digiedge2/travelchannelehd.stream/index.m3u8?is=21&src=app&t=00000000000000000000000000000000
+#EXTINF:-1 group-title="USA" ,Trending
+https://8f8959ec0c604ae0aac98fe0cda060eb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_plex/9ea57596-c36d-4991-802a-3f1961fb4e87/5.m3u8
+#EXTINF:-1 group-title="USA" ,Unwind
+https://fc68583ae7094821b6ab3b44c50c7740.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_plex/3c8fb5fb-b196-45cc-9284-40da26a04a98/5.m3u8
+#EXTINF:-1 group-title="USA" ,Vevo Pop
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 group-title="USA" ,Yacht Rock
+https://6f293d7819ba4cf39ea9152700ad54ad.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_plex/eea1884a-76ca-461b-886d-9707c39c0fbb/5.m3u8
 #EXTINF:-1 group-title="XXX" ,Anal
 http://cdn.adultiptv.net/anal.m3u8
 #EXTINF:-1 group-title="XXX" ,AST TV 1
